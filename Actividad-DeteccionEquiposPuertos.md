@@ -39,6 +39,23 @@
      - Registrador, fechas de creación y expiración.
      - Servidores DNS.
      - Registros DNS relevantes (A, MX, NS).
+| Categoría                     | Detalle                                                                 |
+|--------------------------------|-------------------------------------------------------------------------|
+| **Dominio**                   | nestle.com                                                             |
+| **Registrador**               | Nom-iq Ltd. dba COM LAUDE                                              |
+| **Fecha de creación**         | 25 octubre 1994                                                        |
+| **Fecha de última actualización** | 24 septiembre 2025                                               |
+| **Fecha de expiración**       | 24 octubre 2026                                                        |
+| **Servidores DNS (NS)**       | amsdns1.nestle.com                                                     |
+|                                | aoadns1.nestle.com                                                     |
+|                                | ctrdns1.nestle.com                                                     |
+|                                | eurdns1.nestle.com                                                     |
+| **Registros A**               | 104.18.2.135                                                           |
+|                                | 104.18.3.135                                                           |
+| **Registros AAAA**            | 2606:4700::6812:287                                                    |
+|                                | 2606:4700::6812:387                                                    |
+| **Registro MX**               | 10 nestle-com.mail.protection.outlook.com                             |
+| **Registro CNAME**            | www.nestle.com → www.nestle.com.cdn.cloudflare.net                    |
 
 4. DomainTools:
 
