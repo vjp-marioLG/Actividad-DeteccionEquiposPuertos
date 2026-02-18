@@ -127,6 +127,8 @@ Desde Kali:
   ![](img/12.png)
 
 
+Utiliza Dirb sobre las máquinas web del laboratorio para localizar directorios y recursos adicionales no visibles a simple vista.  
+
 7. Descubre directorios ocultos en las máquina bWapp y Multidillae.
 
 ![](img/14.png)
@@ -135,19 +137,17 @@ Desde Kali:
 
 8. Busca con  `searchsploit` las vulnerabilidades relacionas con alguno de los servicios expuestos.  
 
+![](img/21.png)
 
-
-9. Utiliza Dirb sobre las máquinas web del laboratorio para localizar directorios y recursos adicionales no visibles a simple vista.  
-
-10. Instala la extensión de Shodan en tu navegador.
+9. Instala la extensión de Shodan en tu navegador.
 
 ![](img/16.png)
 
-11. Abre la web `https://iesvallejertepla.educarex.es/`.
+10. Abre la web `https://iesvallejertepla.educarex.es/`.
 
 ![](img/17.png)
 
-12. Muestra la información que proporciona Shodan sobre:
+11. Muestra la información que proporciona Shodan sobre:
    - La IP pública del servidor.
    - Puertos y servicios identificados.
    - Potenciales vulnerabilidades o etiquetas de seguridad.
