@@ -22,10 +22,10 @@
 
 | Servicio Docker | Aplicación   | Puerto host | Puerto contenedor | 
 |-----------------|-------------|------------|-------------------|
-| kali            | Kali Linux  |        |                 | 
-| bwapp           | bWAPP       |        |                 | 
-| dvwa            | DVWA        |        |                 | 
-| mutillidae      | Mutillidae  |        |                 | 
+| kali            | Kali Linux  | ---        |   ---             | 
+| bwapp           | bWAPP       |8001        |   80              | 
+| dvwa            | DVWA        |8002        |   80              | 
+| mutillidae      | Mutillidae  |80          |                   | 
 
 
 ## 3.2. Obener información de equipos: Whois, DomainTools y Dnsrecon.
