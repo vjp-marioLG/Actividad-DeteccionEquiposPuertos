@@ -113,7 +113,7 @@ Desde Kali:
 
 5. Identifica si se reporta alguna vulnerabilidad conocida (por ejemplo, CVEs).
 
-
+![](img/20.PNG)
 
 6. Ejecuta `nikto` para descubrir las vulnerabilidades de las máquinas del escenario multicontenedor de las máquinas vulnerables:
   - bWapp
