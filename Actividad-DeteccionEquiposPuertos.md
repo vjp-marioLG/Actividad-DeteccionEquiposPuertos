@@ -3,15 +3,14 @@
 
 ## 3.1. Identificación de máquinas y puertos desde docker-compose
 
-> Realizaremos estas operaciones sobre el escenario de máquinas vulnerables: [escenario de máquinas vulnerables que realizaste en la Unidad 2.](../../Unidad2-NivelesSeguridad/Actividad-MaquinasVulnerables/README.md)
-> Colócate en la carpeta del escenario y levanta el escenario:
+> Nos colocamos en la carpeta del escenario y lo levantamos
 >
 >```bash
 >docker compose up -d
 >```
 
 
-1. Abre el fichero `docker-compose.yml` del laboratorio PPS.  
+1. Abrimos el fichero `docker-compose.yml`.  
 2. Completa una tabla con:
    - Nombre del servicio (contenedor).
    - IP o red interna (si aparece).
